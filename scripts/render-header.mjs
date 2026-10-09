@@ -71,10 +71,20 @@ function header(t) {
 `;
 }
 
+// A short strip of the same landscape, as a card, so the page ends where it began.
 function footer(t) {
-  const H = 64;
+  const H = 110;
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="">
-<path d="${ridge(3, 44, 26, 60, H).replace(/ L1200 64 Z$/, "").replace(/^M0 64 L/, "M")}" fill="none" stroke="${t.ridges[2]}" stroke-width="1.5" stroke-linejoin="round"/>
+<defs>
+  <clipPath id="c"><rect width="${W}" height="${H}" rx="12"/></clipPath>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${t.sky0}"/><stop offset="1" stop-color="${t.sky1}"/></linearGradient>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="${W}" height="${H}" fill="url(#sky)"/>
+  <path d="${ridge(3, 66, 34, 60, H)}" fill="${t.ridges[0]}"/>
+  <path d="${ridge(11, 86, 24, 45, H)}" fill="${t.ridges[1]}"/>
+  <path d="${ridge(23, 102, 13, 35, H)}" fill="${t.ridges[2]}"/>
+</g>
 </svg>
 `;
 }
