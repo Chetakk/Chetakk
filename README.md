@@ -24,7 +24,7 @@ I build systems that look at the real world and make sense of it: computer visio
 
 ### <img src="./assets/glyph.svg" width="14" height="14" align="absmiddle" alt=""> Selected work
 
-**[Navigation for the Visually Impaired](https://github.com/Chetakk/Navigation-System-for-Visually-Impaired)** &nbsp;<sub>YOLO11 · DeepSORT · Flask</sub>
+**[Navigation System for the Visually Impaired](https://github.com/Chetakk/Navigation-System-for-Visually-Impaired)** &nbsp;<sub>YOLO11 · DeepSORT · Flask</sub>
 <br>Real-time detection, tracking and collision prediction turned into spoken guidance. Voice commands, gyroscope-corrected camera, no GPS or pre-mapped floor plans.
 
 **[Temporal Operation Intelligence](https://github.com/Chetakk/VLMChallenge)** &nbsp;<sub>Vision-language model · Python · Docker</sub>
