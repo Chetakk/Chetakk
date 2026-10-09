@@ -55,12 +55,11 @@ I build systems that look at the real world and make sense of it: computer visio
 ### <img src="./assets/glyph.svg" width="14" height="14" align="absmiddle" alt=""> Stack
 
 <sub>M L &nbsp; &amp; &nbsp; C V</sub><br>
-![Python](https://img.shields.io/badge/Python-2E3440?style=flat-square&logo=python&logoColor=88C0D0)
+![TensorRT](https://img.shields.io/badge/TensorRT-2E3440?style=flat-square&logo=nvidia&logoColor=88C0D0)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2E3440?style=flat-square&logo=pytorch&logoColor=88C0D0)
 ![OpenCV](https://img.shields.io/badge/OpenCV-2E3440?style=flat-square&logo=opencv&logoColor=88C0D0)
 ![YOLO](https://img.shields.io/badge/YOLO-2E3440?style=flat-square&logo=ultralytics&logoColor=88C0D0)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-2E3440?style=flat-square&logo=onnx&logoColor=88C0D0)
-![TensorRT](https://img.shields.io/badge/TensorRT-2E3440?style=flat-square&logo=nvidia&logoColor=88C0D0)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-2E3440?style=flat-square&logo=huggingface&logoColor=88C0D0)
 ![PEFT / LoRA](https://img.shields.io/badge/PEFT%20%2F%20LoRA-2E3440?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-2E3440?style=flat-square&logo=scikitlearn&logoColor=88C0D0)
