@@ -36,6 +36,15 @@ I build systems that look at the real world and make sense of it: computer visio
 **[Face Attendance](https://github.com/Chetakk/face-attendance-system)** &nbsp;<sub>React · TypeScript · Supabase</sub>
 <br>Look at the camera, get marked present. Face recognition runs in the browser; row-level security guards the records.
 
+**[Career Recommendation AI](https://github.com/Chetakk/Carrer-Recommandation-AI)** &nbsp;<sub>scikit-learn · Flask · React</sub>
+<br>Hackathon build: a model trained on student performance and interests suggests career paths, served through a Flask API to a React front end.
+
+**[Vrent](https://github.com/Chetakk/Vrent)** &nbsp;<sub>React · Redux Toolkit · Supabase</sub>
+<br>A rental marketplace for everyday items, from laptops to cycles. Supabase auth, listings and a rental flow, built as a team project.
+
+**[CipherSQLStudio](https://github.com/Chetakk/CipherSQLStudio)** &nbsp;<sub>PostgreSQL · LLM hints · in progress</sub>
+<br>A browser SQL practice studio: pick an assignment, write queries in an editor, run them against real Postgres data, and ask an LLM for a hint rather than the answer.
+
 **[e2e-playwright](https://github.com/Chetakk/e2e-playwright)** &nbsp;<sub>Playwright · CI</sub>
 <br>252 end-to-end tests across 25 files, page-object model, three browser engines.
 
