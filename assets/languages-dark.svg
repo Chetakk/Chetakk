@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 252" width="1200" height="252" role="img" aria-label="Languages: Python 42%, JavaScript 39%, Shell 4%, C++ 3%, C 3%, PHP 2%, Other 7%">
+<rect width="1200" height="252" rx="12" fill="#2E3440"/>
+<g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <text x="56" y="62" font-size="19" letter-spacing="5" fill="#88C0D0">LANGUAGES</text>
+  <text x="1144" y="62" font-size="21" text-anchor="end" fill="#D8DEE9">across 14 public repositories</text>
+  <rect x="56.0" y="94" width="443.5" height="12" rx="4" fill="#88C0D0"/><rect x="503.5" y="94" width="414.1" height="12" rx="4" fill="#81A1C1"/><rect x="921.6" y="94" width="40.5" height="12" rx="4" fill="#5E81AC"/><rect x="966.1" y="94" width="35.7" height="12" rx="4" fill="#8FBCBB"/><rect x="1005.8" y="94" width="35.4" height="12" rx="4" fill="#A3BE8C"/><rect x="1045.2" y="94" width="24.7" height="12" rx="4" fill="#EBCB8B"/><rect x="1073.9" y="94" width="70.1" height="12" rx="4" fill="#616E88"/>
+  <circle cx="63" cy="153" r="7" fill="#88C0D0"/>
+  <text x="80" y="160" font-size="22" fill="#ECEFF4">Python <tspan fill="#616E88" font-size="19">41.7%</tspan></text><circle cx="335" cy="153" r="7" fill="#81A1C1"/>
+  <text x="352" y="160" font-size="22" fill="#ECEFF4">JavaScript <tspan fill="#616E88" font-size="19">38.9%</tspan></text><circle cx="607" cy="153" r="7" fill="#5E81AC"/>
+  <text x="624" y="160" font-size="22" fill="#ECEFF4">Shell <tspan fill="#616E88" font-size="19">3.8%</tspan></text><circle cx="879" cy="153" r="7" fill="#8FBCBB"/>
+  <text x="896" y="160" font-size="22" fill="#ECEFF4">C++ <tspan fill="#616E88" font-size="19">3.4%</tspan></text><circle cx="63" cy="199" r="7" fill="#A3BE8C"/>
+  <text x="80" y="206" font-size="22" fill="#ECEFF4">C <tspan fill="#616E88" font-size="19">3.3%</tspan></text><circle cx="335" cy="199" r="7" fill="#EBCB8B"/>
+  <text x="352" y="206" font-size="22" fill="#ECEFF4">PHP <tspan fill="#616E88" font-size="19">2.3%</tspan></text><circle cx="607" cy="199" r="7" fill="#616E88"/>
+  <text x="624" y="206" font-size="22" fill="#ECEFF4">Other <tspan fill="#616E88" font-size="19">6.6%</tspan></text>
+</g>
+</svg>
