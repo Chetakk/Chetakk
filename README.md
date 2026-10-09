@@ -44,7 +44,7 @@ I build systems that look at the real world and make sense of it: computer visio
 
 ### <img src="./assets/glyph.svg" width="14" height="14" align="absmiddle" alt=""> Stack
 
-<sub>V I S I O N &nbsp; &amp; &nbsp; M L</sub><br>
+<sub>M L &nbsp; &amp; &nbsp; C V</sub><br>
 ![Python](https://img.shields.io/badge/Python-2E3440?style=flat-square&logo=python&logoColor=88C0D0)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2E3440?style=flat-square&logo=pytorch&logoColor=88C0D0)
 ![OpenCV](https://img.shields.io/badge/OpenCV-2E3440?style=flat-square&logo=opencv&logoColor=88C0D0)
