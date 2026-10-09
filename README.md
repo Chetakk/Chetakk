@@ -13,8 +13,9 @@ I build systems that look at the real world and make sense of it: computer visio
 
 <sub>BCA · VIT Vellore</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E3440?style=flat-square)](https://www.linkedin.com/in/chetak-kumar-mahato-12265927a)
-[![Email](https://img.shields.io/badge/Email-2E3440?style=flat-square)](mailto:kumarchetak73@gmail.com)
+<sub>R E A C H &nbsp; M E</sub>
+
+<a href="https://www.linkedin.com/in/chetak-kumar-mahato-12265927a"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-linkedin-dark.svg"><img src="./assets/contact-linkedin-light.svg" width="300" height="54" alt="LinkedIn: in/chetak-kumar-mahato"></picture></a>&nbsp;&nbsp;<a href="mailto:kumarchetak73@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-email-dark.svg"><img src="./assets/contact-email-light.svg" width="300" height="54" alt="Email: kumarchetak73@gmail.com"></picture></a>
 
 <br>
 

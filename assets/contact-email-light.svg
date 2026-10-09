@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 54" width="300" height="54" role="img" aria-label="EMAIL: kumarchetak73@gmail.com">
+<rect x=".5" y=".5" width="299" height="53" rx="9" fill="#ECEFF4" stroke="#D8DEE9"/>
+<rect x="17.5" y="18" width="23" height="17" rx="3" fill="none" stroke="#5E81AC" stroke-width="2"/>
+  <path d="M19 20l10 7.5 10-7.5" fill="none" stroke="#5E81AC" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <text x="56" y="22" font-size="10.5" letter-spacing="2.5" fill="#5E81AC">EMAIL</text>
+  <text x="56" y="40" font-size="15" fill="#2E3440">kumarchetak73@gmail.com</text>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 54" width="300" height="54" role="img" aria-label="LINKEDIN: in/chetak-kumar-mahato">
+<rect x=".5" y=".5" width="299" height="53" rx="9" fill="#2E3440" stroke="#3B4252"/>
+<rect x="18" y="16" width="22" height="22" rx="4" fill="#88C0D0"/>
+  <circle cx="24" cy="22" r="1.9" fill="#2E3440"/><rect x="22.3" y="25.2" width="3.4" height="9" rx=".6" fill="#2E3440"/>
+  <path d="M28.2 25.2h3.2v1.3c.6-1 1.7-1.6 3.1-1.6 2.3 0 3.4 1.5 3.4 4.1v5.2h-3.3v-4.7c0-1.2-.5-1.8-1.4-1.8-1 0-1.6.7-1.6 1.9v4.6h-3.4z" fill="#2E3440"/>
+<g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <text x="56" y="22" font-size="10.5" letter-spacing="2.5" fill="#88C0D0">LINKEDIN</text>
+  <text x="56" y="40" font-size="15" fill="#ECEFF4">in/chetak-kumar-mahato</text>
+</g>
+</svg>

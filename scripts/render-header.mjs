@@ -89,8 +89,39 @@ function footer(t) {
 `;
 }
 
+// Contact cards. shields.io has no LinkedIn logo, so these are drawn here instead.
+const CONTACTS = {
+  linkedin: {
+    label: "LINKEDIN", value: "in/chetak-kumar-mahato",
+    icon: (c, bg) => `<rect x="18" y="16" width="22" height="22" rx="4" fill="${c}"/>
+  <circle cx="24" cy="22" r="1.9" fill="${bg}"/><rect x="22.3" y="25.2" width="3.4" height="9" rx=".6" fill="${bg}"/>
+  <path d="M28.2 25.2h3.2v1.3c.6-1 1.7-1.6 3.1-1.6 2.3 0 3.4 1.5 3.4 4.1v5.2h-3.3v-4.7c0-1.2-.5-1.8-1.4-1.8-1 0-1.6.7-1.6 1.9v4.6h-3.4z" fill="${bg}"/>`,
+  },
+  email: {
+    label: "EMAIL", value: "kumarchetak73@gmail.com",
+    icon: (c) => `<rect x="17.5" y="18" width="23" height="17" rx="3" fill="none" stroke="${c}" stroke-width="2"/>
+  <path d="M19 20l10 7.5 10-7.5" fill="none" stroke="${c}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>`,
+  },
+};
+
+function contact(t, { label, value, icon }) {
+  const W = 300, H = 54;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${esc(label)}: ${esc(value)}">
+<rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="9" fill="${t.card}" stroke="${t.track}"/>
+${icon(t.accent, t.card)}
+<g font-family="${FONT}">
+  <text x="56" y="22" font-size="10.5" letter-spacing="2.5" fill="${t.accent}">${esc(label)}</text>
+  <text x="56" y="40" font-size="15" fill="${t.text}">${esc(value)}</text>
+</g>
+</svg>
+`;
+}
+
 for (const [name, t] of Object.entries(THEMES)) {
   writeFileSync(new URL(`../assets/header-${name}.svg`, import.meta.url), header(t));
   writeFileSync(new URL(`../assets/footer-${name}.svg`, import.meta.url), footer(t));
+  for (const [key, c] of Object.entries(CONTACTS)) {
+    writeFileSync(new URL(`../assets/contact-${key}-${name}.svg`, import.meta.url), contact(t, c));
+  }
 }
-console.log("header + footer written");
+console.log("header, footer + contact cards written");
