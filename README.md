@@ -11,7 +11,6 @@
 
 I build systems that look at the real world and make sense of it: computer vision and machine learning models that run in production, agentic AI that acts on what they see, and the web apps around them. Lately that means visual quality inspection on the factory floor, video understanding, and assistive vision.
 
-<sub>BCA · VIT Vellore</sub>
 
 <sub>R E A C H &nbsp; M E</sub>
 
