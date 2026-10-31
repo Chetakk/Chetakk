@@ -3,7 +3,7 @@
 <g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
   <text x="56" y="62" font-size="19" letter-spacing="5" fill="#88C0D0">LANGUAGES</text>
   <text x="1144" y="62" font-size="21" text-anchor="end" fill="#D8DEE9">across 18 public repositories</text>
-  <rect x="56.0" y="94" width="665.9" height="12" rx="4" fill="#88C0D0"/><rect x="725.9" y="94" width="201.6" height="12" rx="4" fill="#81A1C1"/><rect x="931.5" y="94" width="113.8" height="12" rx="4" fill="#5E81AC"/><rect x="1049.2" y="94" width="19.1" height="12" rx="4" fill="#8FBCBB"/><rect x="1072.3" y="94" width="15.8" height="12" rx="4" fill="#A3BE8C"/><rect x="1092.1" y="94" width="15.6" height="12" rx="4" fill="#EBCB8B"/><rect x="1111.7" y="94" width="32.3" height="12" rx="4" fill="#616E88"/>
+  <rect x="56.0" y="94" width="666.5" height="12" rx="4" fill="#88C0D0"/><rect x="726.5" y="94" width="201.3" height="12" rx="4" fill="#81A1C1"/><rect x="931.8" y="94" width="113.6" height="12" rx="4" fill="#5E81AC"/><rect x="1049.4" y="94" width="19.1" height="12" rx="4" fill="#8FBCBB"/><rect x="1072.4" y="94" width="15.7" height="12" rx="4" fill="#A3BE8C"/><rect x="1092.2" y="94" width="15.6" height="12" rx="4" fill="#EBCB8B"/><rect x="1111.7" y="94" width="32.3" height="12" rx="4" fill="#616E88"/>
   <circle cx="63" cy="153" r="7" fill="#88C0D0"/>
   <text x="80" y="160" font-size="22" fill="#ECEFF4">Python <tspan fill="#616E88" font-size="19">62.6%</tspan></text><circle cx="335" cy="153" r="7" fill="#81A1C1"/>
   <text x="352" y="160" font-size="22" fill="#ECEFF4">JavaScript <tspan fill="#616E88" font-size="19">18.9%</tspan></text><circle cx="607" cy="153" r="7" fill="#5E81AC"/>
